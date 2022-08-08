@@ -3,6 +3,9 @@ Helping record labels, music publishers and producers to discover artists.
 
 The goal of "Scout 4 Artists" is to provide music industry professionals including A&R, publishers and producers a tool to discover up and coming artists; based on specific selection criteria e.g. similar artists with similar popularity.
 
+## How to build the code
+Development has not yet started, but I will let you know how to build it once it gets going! Until then you can see the development backlog within the [projects](https://github.com/users/lorenzopoulloura/projects/3) section of this repository
+
 ## User Journey - MVP [^1]
 ![User Journey - MVP](User%20Journey%20-%20MVP.drawio.svg)
 [^1]: MVP = "Minimum Viable Product" e.g. this will be the first release providing the most basic functionality of the application
@@ -23,8 +26,5 @@ As I noted on the User Journey diagram, this is not limited to just music produc
 ## System Architecture (DRAFT)
 
 ![System Architecture](System%20Architecture.drawio.svg)
-
-## How to build the code
-Development has not yet started, but I will let you know how to build it once it gets going! Until then you can see the development backlog within the [projects](https://github.com/users/lorenzopoulloura/projects/3) section of this repository
 
 
