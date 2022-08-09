@@ -19,9 +19,9 @@ As a [music producer](https://lorenzoproducer.com), I am always on the lookout f
 - Genre e.g. Pop / Rock / EDM etc..
 - Similar artists e.g. Green Day, Justin Bieber, Sam Smith etc..
 - Similar songs e.g. Basket Case, What Do You Mean, Stay With Me
-- Popularity Index. **This is extremely useful**, and is marked from 0 to 100 in Spotify (0 = not very popular, 100 = extremely popular e.g. Ed Sheeran). For example, I may be searching for someone with popularity of "30"; as this will bring back artists who are likely to respond when I reach out to them, but also popular enough to make the collaboration beneficial to both parties.
+- Popularity Index. **This is extremely useful**, and is marked from 0 to 100 in Spotify (0 = not very popular, 100 = extremely popular e.g. Ed Sheeran). For example, I may be searching for someone with popularity of "30"; as this will bring back artists who are likely to respond when I reach out to them, but also popular enough to make the collaboration beneficial for both parties.
 
-As I noted on the User Journey diagram, this is not limited to just music producers. Publishers, record label A&R's and even other artists may use this as a tool to scout for artists too :)
+The target audience is not limited to just music producers. Publishers, record label A&R's and even other artists may use this as a tool to scout for artists too :)
 
 ## System Architecture (DRAFT)
 
