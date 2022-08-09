@@ -11,11 +11,11 @@ Development has not yet started, but I will let you know how to build it once it
 [^1]: MVP = "Minimum Viable Product" e.g. this will be the first release providing the most basic functionality of the application
 
 ### What is the real-world problem "Scout4Artists" is trying to solve?
-As a music producer, I am always on the lookout for the next "collaboration" with an artist who's music I both enjoy but who's career is on the right trajectory to make it beneficial for both myself and the artist
-- It is very easy to find artists who in their **early stages**. The internet and your local music venue is full of these hard working aspiring singers and songwriters
-- It is also very easy to find **absolutely huge mega-stars**, who's tracks you hear on the radio every day. In a dream world you would just reach out to Coldplay and they would say "yeah I'd love to work with you"; but unfortunately we live in the real world, and even worse, we are talking about the deep dark depths of the music industry!
+As a [music producer](https://lorenzoproducer.com), I am always on the lookout for the next "collaboration" with an artist who's music I both enjoy and who's career is at a similar stage to mine.
+- It is very easy to find artists who are in their **early stages**. The internet and your local music venue is full of these hard working aspiring singers and songwriters
+- It is also very easy to find **absolutely huge mega-stars**, who's tracks you hear on the radio every day. In a dream world you would just reach out to Coldplay and they would say "yeah I'd love to work with you"; but unfortunately the music industry very much resides in the realms of the real world.
 
-**In comes "Scout4Artists" to save the day** (and to save you time!). Simply select a few key criteria and voilla, a list of artists you may be a perfect match for will appear! Criteria includes (but will not be limited to):
+**In comes "Scout4Artists" to save the day** (and to save you time!). Simply select a few key criteria and voila! A list of artists you may be a perfect match for will appear! Criteria includes (but will not be limited to):
 - Genre e.g. Pop / Rock / EDM etc..
 - Similar artists e.g. Green Day, Justin Bieber, Sam Smith etc..
 - Similar songs e.g. Basket Case, What Do You Mean, Stay With Me
